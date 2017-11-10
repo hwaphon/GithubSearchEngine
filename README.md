@@ -1,21 +1,13 @@
-# y
+# Github Search Engine
+	
+一个用 `Vue` + `Vuex` + `axios` 创建的简单项目
 
-> y
+## 参考
 
-## Build Setup
+[Vue](https://cn.vuejs.org/v2/guide/index.html)
 
-``` bash
-# install dependencies
-npm install
+[Vuex](https://vuex.vuejs.org/zh-cn/)
 
-# serve with hot reload at localhost:8080
-npm run dev
+[axios](https://www.npmjs.com/package/axios)
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
